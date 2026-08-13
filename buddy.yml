@@ -1,6 +1,6 @@
 - pipeline: tt
   definition_source: REMOTE
-  remote_path: template.yml
+  remote_path: /template.yml
   remote_ref: master
   remote_project_name: temp
   remote_parameters:
